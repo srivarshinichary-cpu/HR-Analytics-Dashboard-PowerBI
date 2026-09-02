@@ -38,11 +38,7 @@ IBM HR Analytics Employee Attrition Dataset
 
 ## 📷 Dashboard Preview
 
-### Page 1
-(Add screenshot here)
-
-### Page 2
-(Add screenshot here)
+\\RESULT DASHBOARD
 
 ## 📈 Key Insights
 
